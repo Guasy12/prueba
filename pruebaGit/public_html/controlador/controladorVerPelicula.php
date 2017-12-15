@@ -10,6 +10,7 @@ $datos = $cont->ver_pelicula($idPelicula);
 
 $peliculas = json_encode($datos);
 print $peliculas;
+yeeeeehaaaaa
 ?>
 
 
